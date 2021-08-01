@@ -4,6 +4,7 @@ please if you want to learn from here with pleasure
 
 # library
 - OpenCV 3.4.0
+- Mediapipe
 
 # Software
 - Python IDLE 3.7.0
