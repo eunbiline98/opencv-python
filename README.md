@@ -7,7 +7,7 @@ please if you want to learn from here with pleasure
 - Mediapipe
 
 # Software
-- Python IDLE 3.7.0
+- Python IDLE 3.7.0 / Anaconda Python 3.8.5
 - Visual Code
 
 
